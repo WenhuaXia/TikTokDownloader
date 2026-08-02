@@ -148,7 +148,7 @@ class TikTokDownloader:
         try:
             self.console.print(
                 _(
-                    "访问 http://127.0.0.1:5555/docs 或者 http://127.0.0.1:5555/redoc 可以查阅 API 模式说明文档！"
+                    "访问 http://127.0.0.1:5556/docs 或者 http://127.0.0.1:5556/redoc 可以查阅 API 模式说明文档！"
                 ),
                 highlight=True,
             )
